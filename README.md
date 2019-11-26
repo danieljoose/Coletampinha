@@ -1,7 +1,11 @@
-Coletampinha - AS 2019.2
+<h1>Coletampinha - AS 2019.2</h1>
 
-Daniel José\n
-Enzo Raian\n
-Felipe Emanuel\n
-Lucas Jarrier\n
+Daniel José
+
+Enzo Raian
+
+Felipe Emanuel
+
+Lucas Jarrier
+
 Matheus Alves
